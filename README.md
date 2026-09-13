@@ -16,3 +16,4 @@ Key Features
 Tools Used
 
 Power BI | DAX | Power Query | Data Cleaning | Data Analysis | Data Visualization | Business Intelligence
+Example/demo:https://github.com/madeshb43-rgb/flipkart-dashboard/blob/main/Screenshot%202026-09-13%20020642.png
